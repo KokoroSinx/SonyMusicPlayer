@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>music/Avid.mp3</file>
+        <file>music/Call of Silence.mp3</file>
+        <file>music/EVO.mp3</file>
+        <file>music/Operation Ashring.mp3</file>
+        <file>music/Renegade.mp3</file>
+        <file>music/Running In The Dark.mp3</file>
+        <file>music/Survive Said The Prophet - MUKANJYO.mp3</file>
+        <file>music/TWICE  What is Love Japanese ver.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>music/lrcs/Avid.lrc</file>
+        <file>music/lrcs/Call of Silence.lrc</file>
+        <file>music/lrcs/Operation Ashring.lrc</file>
+        <file>music/lrcs/Operation Deepness.lrc</file>
+        <file>music/lrcs/Renegade.lrc</file>
+        <file>music/lrcs/Running In The Dark.lrc</file>
+    </qresource>
+</RCC>
